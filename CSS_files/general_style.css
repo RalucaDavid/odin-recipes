@@ -11,16 +11,3 @@
 .title{
     font-size: 75px;
 }
-
-.recipe_image{
-    width:200px;
-    height:200px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-div{
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
