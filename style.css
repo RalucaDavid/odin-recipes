@@ -1,0 +1,26 @@
+*{
+  background-color: #378083;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #243281;
+  display: block;
+  font-size:25px;
+  font-weight:700;
+}
+
+.title{
+    font-size: 75px;
+}
+
+.recipe_image{
+    width:200px;
+    height:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
