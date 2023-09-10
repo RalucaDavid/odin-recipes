@@ -7,7 +7,18 @@
   font-weight:700;
 }
 
+body{
+  max-width:1500px;
+  margin:20px auto;
+  border: 15px solid #243281;
+}
+
 .title{
     font-size: 75px;
     text-align: center;
+    border:15px solid #243281;
+    max-width:1500px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }

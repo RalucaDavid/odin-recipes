@@ -6,8 +6,29 @@
     margin-right: auto;
 }
 
-div{
+.recipe{
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
+}
+
+.tuna_style{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center; 
+    gap: 650px;
+}
+
+.tuna_left, .tuna_right{
+    height:400px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.tuna_left{
+   margin-left: auto;
+}
+
+.tuna_right{
+    margin-right:auto;
 }
