@@ -11,6 +11,7 @@ body{
   max-width:1500px;
   margin:20px auto;
   border: 15px solid #243281;
+  background-color: #495492;
 }
 
 .title{
@@ -21,4 +22,5 @@ body{
     margin: auto;
     margin-bottom: 20px;
     margin-top: 20px;
+    background-color: #495492;
 }

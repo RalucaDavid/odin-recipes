@@ -10,6 +10,15 @@
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
+    background-color: #495492;
+}
+
+div{
+    background-color: #495492;
+}
+
+a{
+    background-color: #495492;
 }
 
 .tuna_style{
@@ -17,12 +26,14 @@
     grid-template-columns: 1fr 1fr;
     justify-items: center; 
     gap: 650px;
+    background-color: #495492;
 }
 
 .tuna_left, .tuna_right{
     height:400px;
     width: 400px;
     margin-bottom: 20px;
+    background-color: #495492;
 }
 
 .tuna_left{

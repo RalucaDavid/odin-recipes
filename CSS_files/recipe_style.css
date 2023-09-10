@@ -12,12 +12,31 @@ div{
     margin-bottom: 100px;
     margin-right: 250px;
     margin-left: 250px;
+    background-color:#495492;
+}
+
+div p{
+    background-color:#495492;
+}
+
+div ul{
+    background-color:#495492;
+}
+
+div ol{
+    background-color:#495492;
+}
+
+div li{
+    background-color:#495492;
 }
 
 h2{
     font-size: 50px;
+    background-color:#495492;
 }
 
 h3{
     font-size: 30px;
+    background-color:#495492;
 }
