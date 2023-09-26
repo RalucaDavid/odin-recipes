@@ -5,3 +5,12 @@ The skills I have to demonstrate are the use of Git and coding using the HTML la
 
 Next step:
 Now I have to work with the CSS language on this project.
+
+The final result:
+![index_page](https://github.com/RalucaDavid/odin-recipes/assets/117584603/4d56b669-891f-4969-8127-965983c83227)
+
+![tuna_pasta_page](https://github.com/RalucaDavid/odin-recipes/assets/117584603/5325abc4-7ba0-439e-8fb9-4fe362151ff7)
+
+![tuna_pizza_page](https://github.com/RalucaDavid/odin-recipes/assets/117584603/541fee35-b431-45e4-9817-44a0c98c37cb)
+
+![tuna_salad_page](https://github.com/RalucaDavid/odin-recipes/assets/117584603/9b88fe00-0c50-4b2c-9108-0ddf56fdb00d)
